@@ -1,5 +1,8 @@
 _repo: Lords-and-Lovers-and-Other-Dramas_51282
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51282-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Dargan, Olive Tilford
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9123
     wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51282#Lords-and-Lovers-and-Other-Dramas
 gutenberg_issued: '2016-02-22'
 gutenberg_type: Text
 identifiers:
