@@ -1,0 +1,29 @@
+_repo: Lords-and-Lovers-and-Other-Dramas_51282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dargan, Olive Tilford
+    aliases:
+    - Burke, Fielding
+    - Tilford, Olive
+    birthdate: 1869
+    deathdate: 1968
+    gutenberg_agent_id: '9123'
+    url: http://www.gutenberg.org/2009/agents/9123
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
+description: ''
+gutenberg_issued: '2016-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama -- 20th century'
+- GITenberg
+tableOfContents: Lords and lovers -- The shepherd -- The siege.
+title: Lords and Lovers, and Other Dramas
+url: http://www.gutenberg.org/ebooks/51282
